@@ -1,0 +1,4 @@
+auto: # prefixed to the variables in this collection
+  enabled: true # Should this section be used
+  vars: # stores all the variables
+    branch: 'auto-update'
